@@ -29,7 +29,9 @@ Route::put('/tasks/{id}', [CrudController::class, 'update']);
 
 Route::delete('/tasks/{id}', [CrudController::class, 'destroy']);
 
-
+Route::get('/', function () {
+    return redirect('/tasks');
+});
 
 
 

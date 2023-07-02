@@ -9,7 +9,7 @@ AtividadeAPI
 <!-- Logo Projeto -->
 <br />
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/1915268/67271462-31600380-f4d8-11e9-9143-18e197b26f48.png" alt="Logo" width="80" height="80">
+    <img src="https://user-images.githubusercontent.com/1915268/67271462-31600380-f4d8-11e9-9143-18e197b26f48.png" alt="Logo" width="80" height="80">****
 
   <h3 align="center">Projeto Crud API com Laravel e PHP</h3>
 
@@ -49,6 +49,19 @@ AtividadeAPI
 <h2 align="center" id="sobre-o-projeto">Sobre o Projeto </h2>
 
 <div align="center">
+<h4> Rotas </h4>
+<ul>
+  <li>/tasks/create</li>
+  <li>/tasks</li>
+  <li>/tasks/{id}</li>
+  <li>/tasks</li>
+  <li>/tasks/{id}/edit</li>
+  <li>/tasks/{id}</li>
+  <li>/tasks/{id}</li>
+</ul>
+
+```Não se esquece de baixar as dependencias do projeto com npm install e de executar o servidor comando npm run dev```
+
 <b> Enunciado: </b> Sistema de Gerenciamento de Tarefas (API)
 
 Você foi contratado para desenvolver um sistema de gerenciamento de tarefas utilizando Laravel. O sistema deve fornecer uma API para realizar operações básicas de criação, leitura, atualização e exclusão (CRUD) de tarefas.
