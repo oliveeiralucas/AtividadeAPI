@@ -9,7 +9,7 @@ AtividadeAPI
 <!-- Logo Projeto -->
 <br />
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/1915268/67271462-31600380-f4d8-11e9-9143-18e197b26f48.png" alt="Logo" width="80" height="80">****
+    <img src="https://user-images.githubusercontent.com/1915268/67271462-31600380-f4d8-11e9-9143-18e197b26f48.png" alt="Logo" width="80" height="80">
 
   <h3 align="center">Projeto Crud API com Laravel e PHP</h3>
 
