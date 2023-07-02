@@ -9,7 +9,7 @@ AtividadeAPI
 <!-- Logo Projeto -->
 <br />
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/1915268/67271462-31600380-f4d8-11e9-9143-18e197b26f48.png" alt="Logo" width="80" height="80">****
+    <img src="https://user-images.githubusercontent.com/1915268/67271462-31600380-f4d8-11e9-9143-18e197b26f48.png" alt="Logo" width="80" height="80">
 
   <h3 align="center">Projeto Crud API com Laravel e PHP</h3>
 
@@ -25,7 +25,16 @@ AtividadeAPI
 :arrow_down::arrow_down::arrow_down:
 
 
-[![YouTube](https://img.shields.io/badge/YouTube-Ver%20Vídeo-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=seu-codigo-de-video)
+[![YouTube](https://img.shields.io/badge/YouTube-Ver%20Vídeo-red?style=for-the-badge&logo=youtube)](https://youtu.be/umd5r3ZFKXQ)
+
+
+<b> Trabalho Criando tabelas</b>
+
+:arrow_down::arrow_down::arrow_down:
+
+
+[![Google Sheets](https://img.shields.io/badge/Google%20Sheets-Open-blue?logo=google%20sheets)](https://docs.google.com/spreadsheets/d/1NZ8njCj-52wlYkNCVZAQ19zW3KDwwsCSFSU9tsmprzQ/edit?usp=sharing)
+
 
 </div>
 
