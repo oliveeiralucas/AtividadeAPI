@@ -164,7 +164,26 @@ Implemente recursos de busca para permitir que os usuários pesquisem tarefas po
 <br />
 
 
+<h1 align="center">Rodando o projeto</h1>
 
+<p align="center">composer install -> baixar as dependencias do projeto
+
+criar o arquivo .env -> copiar do arquivo .env.example
+
+Abrir o banco de dados -> Xampp ou Wampp
+
+php artisan migrate -> criar tabelas do banco de dados
+
+npm install -> baixar dependencias do projeto
+
+npm run dev -> rodar servidor local
+
+cd [pasta projeto] -> mudar a pasta
+
+php artisan serve -> executar servidor 
+
+php artisan key:generate -> gerar chave de configuração
+</p>
 <!-- CONTATO -->
 <h2 align="center" id="contato">Contato</h2>
 
